@@ -1,2 +1,2 @@
 <<<<<<< HEAD
-B2 second
+B1 first
